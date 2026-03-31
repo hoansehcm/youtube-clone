@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Clone",
+  "description": "A high-fidelity YouTube clone built with Next.js, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
